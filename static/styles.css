@@ -1,0 +1,31 @@
+body {
+	background-image: url("https://s3.amazonaws.com/ghost-blog-ff/2020/12/amy-hirschi-szrJ3wjzOMg-unsplash.jpg");
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: blueviolet;
+}
+#wrapper {
+	margin-top: 10% !important;
+}
+#content {
+	background: rgb(17, 17, 16);
+	padding: 25px;
+}
+#content > h2 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 10px;
+}
+.t20 {
+	margin-top: 20px;
+}
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(193, 198, 199, 0.3);
+}
+footer {
+	margin-top: 20px;
+	color: rgb(248, 31, 165);
+}
